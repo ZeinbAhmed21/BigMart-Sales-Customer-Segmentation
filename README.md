@@ -141,6 +141,6 @@ clustering-bigmart/
 
 ---
 
-## 👤 Authors
+## 🤝 Contributors
 - Zeinab Ahmed
 - Ibrahim Hamdy
